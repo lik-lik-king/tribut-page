@@ -1,0 +1,40 @@
+body {
+  background-color: gold;
+}
+h1 {
+  color: purple;
+  text-align: center;
+}
+
+#img-div {
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+#image {
+  border-radius: 50%;
+  box-shadow: 10px 10px 40px black;
+  max-width: 100%;
+}
+div {
+  color: purple;
+  text-align: center;
+}
+#img-caption {
+  padding: 30px;
+}
+h3 {
+  color: purple;
+  text-align: center;
+}
+#timline {
+  display: inline;
+}
+ul {
+  text-align: center;
+  display: inline;
+}
+li {
+  padding: 23px;
+}
